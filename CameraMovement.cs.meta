@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 050d43ced377b8649b46a5e630bf4a63
+guid: e54e534ce9e48bc4ebad75722140db8d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -14,5 +14,5 @@ AssetOrigin:
   productId: 260042
   packageName: Idyllic Fantasy Nature
   packageVersion: 1.0
-  assetPath: Assets/Idyllic Fantasy Nature/Scripts/PlayerMovement.cs
+  assetPath: Assets/Idyllic Fantasy Nature/Scripts/CameraMovement.cs
   uploadId: 617545

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 050d43ced377b8649b46a5e630bf4a63
+guid: f31b20a778ade6341b5b642f0ac7c8bf
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -14,5 +14,5 @@ AssetOrigin:
   productId: 260042
   packageName: Idyllic Fantasy Nature
   packageVersion: 1.0
-  assetPath: Assets/Idyllic Fantasy Nature/Scripts/PlayerMovement.cs
+  assetPath: Assets/Idyllic Fantasy Nature/Scripts/ButterflySpawnArea.cs
   uploadId: 617545
